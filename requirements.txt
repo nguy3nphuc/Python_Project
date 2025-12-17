@@ -1,0 +1,8 @@
+joblib
+scikit-learn
+numpy
+pandas
+streamlit
+nltk
+bs4
+deep-translator
