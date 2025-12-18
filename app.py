@@ -157,7 +157,7 @@ def load_models():
 model, tfidf, le = load_models()
 
 # --- 5. GIAO DIỆN (UI) ---
-st.title("🎬 AI Phân Tích Cảm Xúc (Deep Logic)")
+st.title("🎬 Mô Hình AI Phân Tích Cảm Xúc Dựa Trên Đánh Giá")
 
 # Sidebar
 with st.sidebar:
